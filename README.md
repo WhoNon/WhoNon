@@ -1,6 +1,4 @@
-- I’m @WhoNon
-- I really hate noisy people
-- I like nothing (for now)
+?
 
 
 <!---
