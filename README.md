@@ -1,7 +1,3 @@
-?
-
-
-<!---
-WhoNon/WhoNon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+프론트 엔드 전문 계발자.
+웹사이트 디자이너.
+Team Tros 프론트 엔드 계발자
